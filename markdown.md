@@ -293,6 +293,8 @@ URLが長くて読みづらくなる場合や同じリンクを何度も使用�
 
 <img src="attach:cat.jpg" alt="attach:cat" title="attach:cat" width="200" height="200">
 ```
+![hed.gif](hed.gif)
+
 
 # Table 表
 
