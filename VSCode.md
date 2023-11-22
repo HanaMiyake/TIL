@@ -1,6 +1,6 @@
 #VSCode  
 >Pretter  
->Auto Close Tag
->Auto Rename Tag
+>Auto Close Tag  
+>Auto Rename Tag  
 >
 
