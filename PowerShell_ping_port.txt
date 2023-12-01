@@ -1,0 +1,4 @@
+Test-NetConnection <ホスト名 or IPアドレス> -port <ポート番号>
+
+例
+Test-NetConnection 192.20.7.183 -port 5444
